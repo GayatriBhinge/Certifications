@@ -9,10 +9,10 @@
 ![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/2.PNG)
 
 
-![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/2.PNG)
+![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/3.PNG)
 
 
-![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/2.PNG)
+![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/4.PNG)
 
 
 
