@@ -3,6 +3,10 @@
 
 ## I would like to share a few certifications that I have completed on Coursera in 2024.
 
+
+
+![App Screenshot]([https://github.com/GayatriBhinge/Certifications/blob/main/1.PNG](https://github.com/GayatriBhinge/Certifications/blob/main/google-data-analytics-professional-certificate.1.png))
+
 ![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/1.PNG)
 
 
@@ -13,6 +17,8 @@
 
 
 ![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/4.PNG)
+
+
 
 
 
