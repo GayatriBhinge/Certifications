@@ -2,10 +2,9 @@
 # CERTIFICATIONS
 
 ## I would like to share a few certifications that I have completed on Coursera in 2024.
+![google-data-analytics-professional-certificate 1](https://github.com/user-attachments/assets/949e9914-9668-428e-b7ae-c7b184c86d8d)
 
 
-
-![App Screenshot]([https://github.com/GayatriBhinge/Certifications/blob/main/1.PNG](https://github.com/GayatriBhinge/Certifications/blob/main/google-data-analytics-professional-certificate.1.png))
 
 ![App Screenshot](https://github.com/GayatriBhinge/Certifications/blob/main/1.PNG)
 
